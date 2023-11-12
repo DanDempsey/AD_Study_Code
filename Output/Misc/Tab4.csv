@@ -1,0 +1,13 @@
+Colony.Counts,p.vals
+Lesional skin : Negative,0.0017535938723721124
+Lesional skin : Low,1
+Lesional skin : Moderate,0.027861117184131923
+Lesional skin : High,0.10119398406306915
+Non lesional skin : Negative,1.5048782548698986e-4
+Non lesional skin : Low,0.11335354036848957
+Non lesional skin : Moderate,0.12428574390569451
+Non lesional skin : High,0.001691476064295097
+Nose : Negative,1.0697278395114616e-4
+Nose : Low,0.14003760038301674
+Nose : Moderate,0.009013948651475324
+Nose : High,0.07927571043108232
